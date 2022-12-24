@@ -7,7 +7,7 @@
 
 🧠 <strong>JavaScript</strong> is my main programming language.
 
-## ⚙️ Active Projects [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoanparashkevov/)
+## ⚙️ Active Projects
 
 - 💻 <strong>Find a Freelancer</strong> - a web application <strong>for easily finding freelancer</strong> that allows users even to contact them or to register themselves as a freelancer. With its minimalistic design, the application is easy to manage and accessible. - https://github.com/antoanparashkevov/freelancers-angular
 
