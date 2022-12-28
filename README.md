@@ -9,7 +9,9 @@
 
 ## ⚙️ Active Projects
 
-- 💻 <strong>Find a Freelancer</strong> - a web application <strong>for easily finding freelancer</strong> that allows users even to contact them or to register themselves as a freelancer. With its minimalistic design, the application is easy to manage and accessible. - https://github.com/antoanparashkevov/freelancers-angular
+- 💻 <strong>Find a Freelancer</strong> - a web application <strong>for easily finding freelancer</strong> that allows users to contact them or to register themselves as a freelancer. With its minimalistic design, the application is easy to manage and accessible. Written on Angular and TypeScript - https://github.com/antoanparashkevov/freelancers-angular
+
+- 💻 <strong>Find a Coach</strong> - a web application <strong>for easily finding a coach</strong> that allows users to contact them or to register themselves as a coach. Almost identical with Find a Freelancer project, but written on VueJS version 3 and plain JavaScript. - https://github.com/antoanparashkevov/find-coaches-vue3
 
 ## 📫 How to reach me:
 Feel free to reach me: https://linktr.ee/antoan_parashkevov
