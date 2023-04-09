@@ -13,6 +13,8 @@
 
 - 💻 <strong>Find a Coach</strong> - Easy-to-use app to quickly and conviniently find the right coach for you. Each authenticated user can register as a coach too. Almost identical with Find a Freelancer project, but written on VueJS version 3 and plain JavaScript. - https://github.com/antoanparashkevov/find-coaches-vue3
 
+- 💻 <strong>IT-COMMUNITY</strong> - a Job Board web application that makes it easier for the user to find their desired job. It also helps companies find quality staff. Written on ReactJS.
+
 ## 📫 How to reach me:
 Feel free to reach me: https://linktr.ee/antoan_parashkevov
 
