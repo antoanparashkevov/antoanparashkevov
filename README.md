@@ -15,6 +15,8 @@
 
 - 💻 <strong>IT-COMMUNITY</strong> - a Job Board web application that makes it easier for the user to find their desired job. It also helps companies find quality staff. Written on ReactJS. - https://github.com/antoanparashkevov/it-community-react
 
+- 💻 <strong>Accommodation Service</strong> - MPA accommodation service provides quick and easy access to hotel listings in and outside Bulgaria. Any user can register to the website and then to host your own poster. Written on NodeJS with ExpressJS as a framework. - https://github.com/antoanparashkevov/MPA-ExpressJS
+
 ## 📫 How to reach me:
 Feel free to reach me: https://linktr.ee/antoan_parashkevov
 
