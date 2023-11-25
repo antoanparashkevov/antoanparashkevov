@@ -3,7 +3,9 @@
 </div>
 
 ## 👋 Introduction
-💻 Hello everyone! :) I am Antoan Parashkevov from Bulgaria and I am a passionate and hardworking <strong>Software Engineer</strong> who loves to write code. In my spare time, I often read side literature different from what I tough in the university.
+💻 Hello everyone! :) I am Antoan Parashkevov from Bulgaria and I am a passionate and hardworking <strong>Software Engineer</strong> who loves to write code. In my spare time, I often read side literature different from what I taught in the university.
+
+I have been working as a Software Engineer at a dynamic sports company called Enetpulse, for <strong>2+ years</strong> now. There I have one of the most crucial and responsible tasks which is managing over 40 different widgets for a variety types of sports.
 
 🧠 <strong>JavaScript</strong> is my main programming language.
 
