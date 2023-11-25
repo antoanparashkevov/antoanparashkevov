@@ -9,11 +9,11 @@
 
 ## ⚙️ Active Projects
 
+- 💻 <strong>IT-COMMUNITY</strong> - a Job Board web application that makes it easier for the user to find their desired job. It also helps companies find quality staff. Written on ReactJS. - https://github.com/antoanparashkevov/it-community-react
+
 - 💻 <strong>Find a Freelancer</strong> - web application <strong>for easily finding a freelancer</strong>. Allows users to contact them or to register themselves as a freelancer. With its minimalistic design, the application is easy to manage and accessible. Written on Angular and TypeScript - https://github.com/antoanparashkevov/freelancers-angular
 
 - 💻 <strong>Find a Coach</strong> - Easy-to-use app to quickly and conveniently find the right coach for you. Each authenticated user can register as a coach too. Almost identical with Find a Freelancer project, but written on VueJS version 3 and plain JavaScript. - https://github.com/antoanparashkevov/find-coaches-vue3
-
-- 💻 <strong>IT-COMMUNITY</strong> - a Job Board web application that makes it easier for the user to find their desired job. It also helps companies find quality staff. Written on ReactJS. - https://github.com/antoanparashkevov/it-community-react
 
 - 💻 <strong>Accommodation Service</strong> - MPA accommodation service provides quick and easy access to hotel listings in and outside Bulgaria. Any user can register to the website and then to host your own poster. Written on NodeJS with ExpressJS as a framework. - https://github.com/antoanparashkevov/MPA-ExpressJS
 
